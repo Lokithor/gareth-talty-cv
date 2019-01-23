@@ -1,0 +1,58 @@
+# Site
+repository: garethtalty/gareth-talty-cv
+# favicon: images/favicon.ico
+
+# Personal info
+name: Gareth Talty
+title: Software Engineer
+email: garethtalty@gmail.com
+website: www.github.com/garethtalty/gareth-talty-cv
+
+# Social links
+twitter_username: taltyg
+github_username:  garethtalty
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: garethtalty
+linkedin_username: garethtalty
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Gareth and I'm a Software Engineer.
+
+  I am most skilled in: <mark>JavaScript</mark> and <mark>React</mark>
+
+# Projects Section
+projects_title: Projects
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+educaton_title: Education
+
+# More Section
+more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Cycling
+   - Travel
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
